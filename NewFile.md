@@ -1,1 +1,1 @@
-To je moja nova datotea
+To je moja nova datoteka
