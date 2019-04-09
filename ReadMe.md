@@ -1,2 +1,2 @@
-Testiranje GtHub
+Testiranje GitHub
 Dopolnitve 
